@@ -1,3 +1,11 @@
+
+/*
+
+Aravind Vellora & Devnath Nair, 2015 
+Hosts a website at a static IP that sends a pre-specified IR code in RAW to the target appliance at the click of a (software) button.
+
+*/
+
 #include<Ethernet.h>
 #include<SPI.h>
 #include<IRremote.h>
