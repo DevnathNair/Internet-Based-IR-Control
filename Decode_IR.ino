@@ -1,3 +1,4 @@
+//Use this for acquiring IR Codes. Credits to Authors below.
 /*
  * Sketch modified by Enjoying Electronics: http://www.instructables.com/member/Enjoying+Electronics/
  Code based off of: 
